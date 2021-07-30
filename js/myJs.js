@@ -138,7 +138,7 @@ const textConfig = {
             text: textConfig.text11,
             confirmButtonColor: "#83d0c9",
             onClose: () => {
-              window.location = "https://www.facebook.com/Quo.H.19/";
+              window.location = "https://gvlawyers.com.vn/wp-content/uploads/2020/03/Thu-tuc-dang-ky-ket-hon.jpg";
             },
           });
         }
